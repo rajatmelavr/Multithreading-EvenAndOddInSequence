@@ -3,7 +3,8 @@ This repository demonstrate the printing of even and odd no in sequence under mu
 
 ## Installation
 
-Currently any makefile or Cmake file is not yet ready, hence compile it manually. Will be adding soon !!
+Execute **make all** to build the code and **make clean** to clean the code.
+**EvenOddMultithreading** would be the name of binary to execute. 
 
 
 ## Language - C++ 11
